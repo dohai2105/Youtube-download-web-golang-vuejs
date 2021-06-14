@@ -19,3 +19,4 @@ https://github.com/avelino/awesome-go</br>
 https://github.com/gin-gonic/gin</br>
 https://qiita.com/sunnyG/items/95f61a39ca3303a6c85f</br>
 https://github.com/lucas-santosP/currency-exchange-chart</br>
+https://github.com/heavykenny/currency
